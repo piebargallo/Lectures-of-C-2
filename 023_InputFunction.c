@@ -5,12 +5,13 @@ int main() {
     int b = 0;
     int sum = 0;
     
-    printf("Inuut two numbers: ");
-    scanf("%d", &a, &b);
+    printf("Input two numbers: ");
+    scanf("%d%d", &a, &b);
     sum = a + b;
     printf("Sum is: %d\n", sum);
     return 0;
 }
+
 
 
 
