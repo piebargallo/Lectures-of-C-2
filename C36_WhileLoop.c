@@ -7,7 +7,7 @@ int main()
 	while (i <= 10)
 	{
 		printf("%d\n", i);
-		i++; // Equivalent a i = i + 1
+		i++; //Equivalent a la sentència i = i + 1;
 	}
 	
 	return 0;
